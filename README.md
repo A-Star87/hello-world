@@ -1,2 +1,2 @@
 # hello-world
-Eventually I was to create a space to showcase my creations
+Eventually I want to create a space to showcase my creations
